@@ -18,3 +18,8 @@ completionMethod: manual
 4. Care - ध्यान
 5. Responsibility - ज़िम्मेदारी
 6. Concentration - एकाग्रता
+7.Time management-समय प्रबंधन
+8.Attendant-परिचारक
+9.Distraction-व्याकुलता
+10.Become-बनना
+
