@@ -18,3 +18,9 @@ completionMethod: manual
 4. Care - ध्यान
 5. Responsibility - ज़िम्मेदारी
 6. Concentration - एकाग्रता
+7. Stack -ढेर
+8. Turrest -बुर्ज
+9. Knots -समुद्री मील
+10.symbolising -प्रतीक
+11.coyly -शर्मीले
+12.prevailed -प्रबल
